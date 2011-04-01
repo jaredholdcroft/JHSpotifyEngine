@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'JHSpotifyEngine' target in the 'JHSpotifyEngine' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
